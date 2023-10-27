@@ -8,6 +8,7 @@ I have taken two data sets from Kaggle to get information about the movie data I
 I took a dataset from the site TMBD,
 It is a data set of about 5000 movies.
 Among the two dataset one contains about movie_id,title,genres,keywords,overview,....and others
+
 The other one contains columns about the title, cast(people who acted in the movie), crew(people involved in making the movie i.e behind the camera),.....and other columns
 
 We would consider in our project the columns mentioned earlier 
@@ -26,7 +27,7 @@ i.e merge all these columns by converting them into the same format and name tha
 
 On these tags, we would then perform stemming by using a natural language toolkit
 
-Util here -->1.PREPROCESSING of the data is done 
+Until here -->1.PREPROCESSING of the data is done 
 
 Now for -->2.PREPARING the  model, we would do
 
