@@ -39,7 +39,8 @@ The similarity of the movie is determined by other vectors that are closer to th
 Now on these vectors, we would use cosine similarity to calculate the angle between two vectors 
 
 PS We are calculating the angle between two vectors instead of the regular Euclidean distance since our data which has about 5,000 movies is of higher dimensionality
-![cosine](https://github.com/Shravya1-0/Movie_recommender_system/assets/121577600/a9ddc61b-8f1b-460e-ae92-d0d37a8bf310)
+![cosine](https://github.com/Shravya1-0/Movie_recommender_system/assets/121577600/84232d9c-25b1-4688-884e-046d2c1cdddc)
+
 
 
 
