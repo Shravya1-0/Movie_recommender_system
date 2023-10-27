@@ -26,9 +26,9 @@ i.e merge all these columns by converting them into the same format and name tha
 
 On these tags, we would then perform stemming by using a natural language toolkit
 
-Util here PREPROCESSING of the data is done 
+Util here -->1.PREPROCESSING of the data is done 
 
-Now for PREPARING the  model, we would do
+Now for -->2.PREPARING the  model, we would do
 
 we would perform text vectorization which would convert our text into vectors
 
